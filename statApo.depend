@@ -1,0 +1,691 @@
+# depslib dependency file v1.0
+1446985749 source:c:\workspace\statapo\spl\src\misc.c
+	"misc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\misc.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\inc\stm32f4xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+	"stm32f4xx_conf.h"
+
+1446985749 c:\workspace\statapo\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1446985749 c:\workspace\statapo\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1446985749 c:\workspace\statapo\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1446985749 c:\workspace\statapo\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1446985749 c:\workspace\statapo\inc\system_stm32f4xx.h
+
+1446989809 c:\workspace\statapo\inc\stm32f4xx_conf.h
+	"stm32f4xx_dbgmcu.h"
+	"stm32f4xx_dma.h"
+	"stm32f4xx_exti.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_tim.h"
+	"stm32f4xx_usart.h"
+	"misc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_dbgmcu.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_dma.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_exti.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_gpio.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_pwr.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_rcc.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_spi.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_syscfg.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_tim.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_usart.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_adc.c
+	"stm32f4xx_adc.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_adc.h
+	"stm32f4xx.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_can.c
+	"stm32f4xx_can.h"
+	"stm32f4xx_rcc.h"
+
+1446982149 c:\workspace\statapo\spl\inc\stm32f4xx_can.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_crc.c
+	"stm32f4xx_crc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_crc.h
+	"stm32f4xx.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_cryp.c
+	"stm32f4xx_cryp.h"
+	"stm32f4xx_rcc.h"
+
+1446982149 c:\workspace\statapo\spl\inc\stm32f4xx_cryp.h
+	"stm32f4xx.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_cryp_aes.c
+	"stm32f4xx_cryp.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_cryp_des.c
+	"stm32f4xx_cryp.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_cryp_tdes.c
+	"stm32f4xx_cryp.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_dac.c
+	"stm32f4xx_dac.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_dac.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_dbgmcu.c
+	"stm32f4xx_dbgmcu.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_dcmi.c
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_dcmi.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_dma.c
+	"stm32f4xx_dma.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_exti.c
+	"stm32f4xx_exti.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_flash.c
+	"stm32f4xx_flash.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_flash.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_fsmc.c
+	"stm32f4xx_fsmc.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_fsmc.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_gpio.c
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_hash.c
+	"stm32f4xx_hash.h"
+	"stm32f4xx_rcc.h"
+
+1446982149 c:\workspace\statapo\spl\inc\stm32f4xx_hash.h
+	"stm32f4xx.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_hash_md5.c
+	"stm32f4xx_hash.h"
+
+1446982149 source:c:\workspace\statapo\spl\src\stm32f4xx_hash_sha1.c
+	"stm32f4xx_hash.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_i2c.c
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_i2c.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_iwdg.c
+	"stm32f4xx_iwdg.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_iwdg.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_pwr.c
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_rcc.c
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_rng.c
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_rng.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_rtc.c
+	"stm32f4xx_rtc.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_rtc.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_sdio.c
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_sdio.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_spi.c
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_syscfg.c
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_tim.c
+	"stm32f4xx_tim.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_usart.c
+	"stm32f4xx_usart.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapo\spl\src\stm32f4xx_wwdg.c
+	"stm32f4xx_wwdg.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapo\spl\inc\stm32f4xx_wwdg.h
+	"stm32f4xx.h"
+
+1466072583 source:c:\workspace\statapo\src\main.cpp
+	"stm32f4xx_conf.h"
+	"main.h"
+	"timer.h"
+	<string.h>
+
+1446989640 source:c:\workspace\statapo\src\startup_stm32f4xx.s
+
+1446989414 source:c:\workspace\statapo\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1450357073 source:c:\workspace\statapo\src\timer.cpp
+	"timer.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_tim.h"
+	"misc.h"
+
+1447005627 c:\workspace\statapo\inc\timer.h
+	"swo.h"
+
+1466072583 c:\workspace\statapo\inc\main.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"stdint.h"
+	"timer.h"
+	"spi.h"
+	"flash.h"
+	"struct.h"
+	"jumper.h"
+	"bufferIP.h"
+	"handlerIP.h"
+	"tcp.h"
+	"periphery.h"
+	"usart.h"
+	"cmetric.h"
+	"cservo.h"
+	"swo.h"
+
+1454074390 source:c:\workspace\statapo\src\periphery.cpp
+	"stm32f4xx_rcc.h"
+	"periphery.h"
+
+1428074252 c:\workspace\statapo\inc\swo.h
+
+1435531372 source:c:\workspace\statapo\src\swo.c
+
+1447089655 c:\workspace\statapo\inc\spi.h
+	<stdint.h>
+	"swo.h"
+
+1448379033 source:c:\workspace\statapo\src\spi.cpp
+	"spi.h"
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_exti.h"
+
+1447155497 c:\workspace\statapo\inc\flash.h
+	<stdint.h>
+
+1447158791 source:c:\workspace\statapo\src\flash.cpp
+	"flash.h"
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx.h"
+
+1448650507 c:\workspace\statapo\inc\struct.h
+	<stdint.h>
+
+1447260434 source:c:\workspace\statapo\src\jumper.cpp
+	"jumper.h"
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+
+1447259686 c:\workspace\statapo\inc\jumper.h
+	<stdint.h>
+
+1447864508 c:\workspace\statapo\inc\bufferip.h
+	<stdint.h>
+
+1448379156 source:c:\workspace\statapo\src\bufferip.cpp
+	"bufferIP.h"
+	"stm32f4xx_exti.h"
+
+1447969199 c:\workspace\statapo\inc\handlerip.h
+	<stdint.h>
+	"swo.h"
+
+1450278847 source:c:\workspace\statapo\src\handlerip.cpp
+	"handlerIP.h"
+	"struct.h"
+	<stdio.h>
+
+1450351663 c:\workspace\statapo\inc\tcp.h
+	<stdint.h>
+	"swo.h"
+
+1450441054 source:c:\workspace\statapo\src\tcp.cpp
+	"tcp.h"
+	<stdio.h>
+
+1450782060 c:\workspace\statapo\inc\periphery.h
+	<stdint.h>
+
+1466071670 c:\workspace\statapo\inc\usart.h
+	<stdint.h>
+	"swo.h"
+
+1466072818 source:c:\workspace\statapo\src\usart.cpp
+	"usart.h"
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_usart.h"
+	"stdio.h"
+	"stdlib.h"
+
+1451226789 c:\workspace\statapo\inc\cmetric.h
+	<stdint.h>
+
+1451226787 source:c:\workspace\statapo\src\cmetric.cpp
+	"cmetric.h"
+
+1451230466 c:\workspace\statapo\inc\cservo.h
+	<stdint.h>
+
+1451230708 source:c:\workspace\statapo\src\cservo.cpp
+	"cservo.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\misc.c
+	"misc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\misc.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\inc\stm32f4xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+	"stm32f4xx_conf.h"
+
+1446985749 c:\workspace\statapon\cmsis\core_cm4.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+	<core_cm4_simd.h>
+
+1446985749 c:\workspace\statapon\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+
+1446985749 c:\workspace\statapon\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+
+1446985749 c:\workspace\statapon\cmsis\core_cm4_simd.h
+	<cmsis_iar.h>
+
+1446985749 c:\workspace\statapon\inc\system_stm32f4xx.h
+
+1446989809 c:\workspace\statapon\inc\stm32f4xx_conf.h
+	"stm32f4xx_dbgmcu.h"
+	"stm32f4xx_dma.h"
+	"stm32f4xx_exti.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_tim.h"
+	"stm32f4xx_usart.h"
+	"misc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_dbgmcu.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_dma.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_exti.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_gpio.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_pwr.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_rcc.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_spi.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_syscfg.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_tim.h
+	"stm32f4xx.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_usart.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_adc.c
+	"stm32f4xx_adc.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_adc.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_crc.c
+	"stm32f4xx_crc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_crc.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_dac.c
+	"stm32f4xx_dac.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_dac.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_dbgmcu.c
+	"stm32f4xx_dbgmcu.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_dcmi.c
+	"stm32f4xx_dcmi.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_dcmi.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_dma.c
+	"stm32f4xx_dma.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_exti.c
+	"stm32f4xx_exti.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_flash.c
+	"stm32f4xx_flash.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_flash.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_fsmc.c
+	"stm32f4xx_fsmc.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_fsmc.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_gpio.c
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_i2c.c
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_i2c.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_iwdg.c
+	"stm32f4xx_iwdg.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_iwdg.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_pwr.c
+	"stm32f4xx_pwr.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_rcc.c
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_rng.c
+	"stm32f4xx_rng.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_rng.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_rtc.c
+	"stm32f4xx_rtc.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_rtc.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_sdio.c
+	"stm32f4xx_sdio.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_sdio.h
+	"stm32f4xx.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_spi.c
+	"stm32f4xx_spi.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_syscfg.c
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_tim.c
+	"stm32f4xx_tim.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_usart.c
+	"stm32f4xx_usart.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 source:c:\workspace\statapon\spl\src\stm32f4xx_wwdg.c
+	"stm32f4xx_wwdg.h"
+	"stm32f4xx_rcc.h"
+
+1446985749 c:\workspace\statapon\spl\inc\stm32f4xx_wwdg.h
+	"stm32f4xx.h"
+
+1448379156 source:c:\workspace\statapon\src\bufferip.cpp
+	"bufferIP.h"
+	"stm32f4xx_exti.h"
+
+1447864508 c:\workspace\statapon\inc\bufferip.h
+	<stdint.h>
+
+1451226787 source:c:\workspace\statapon\src\cmetric.cpp
+	"cmetric.h"
+
+1451226789 c:\workspace\statapon\inc\cmetric.h
+	<stdint.h>
+
+1451230708 source:c:\workspace\statapon\src\cservo.cpp
+	"cservo.h"
+
+1451230466 c:\workspace\statapon\inc\cservo.h
+	<stdint.h>
+
+1473238183 source:c:\workspace\statapon\src\flash.cpp
+	"flash.h"
+	"stm32f4xx_i2c.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx.h"
+
+1473238196 c:\workspace\statapon\inc\flash.h
+	<stdint.h>
+
+1450278847 source:c:\workspace\statapon\src\handlerip.cpp
+	"handlerIP.h"
+	"struct.h"
+	<stdio.h>
+
+1447969199 c:\workspace\statapon\inc\handlerip.h
+	<stdint.h>
+	"swo.h"
+
+1428074252 c:\workspace\statapon\inc\swo.h
+
+1473246573 c:\workspace\statapon\inc\struct.h
+	<stdint.h>
+
+1473269582 source:c:\workspace\statapon\src\main.cpp
+	<iostream>
+	"main.h"
+	"struct.h"
+
+1473275055 c:\workspace\statapon\inc\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"timer.h"
+	"spi.h"
+	"flash.h"
+	"struct.h"
+	"jumper.h"
+	"bufferIP.h"
+	"handlerIP.h"
+	"tcp.h"
+	"periphery.h"
+	"usart.h"
+	"cmetric.h"
+	"cservo.h"
+	"eventbuff.h"
+	"swo.h"
+
+1447005627 c:\workspace\statapon\inc\timer.h
+	"swo.h"
+
+1447089655 c:\workspace\statapon\inc\spi.h
+	<stdint.h>
+	"swo.h"
+
+1447259686 c:\workspace\statapon\inc\jumper.h
+	<stdint.h>
+
+1450351663 c:\workspace\statapon\inc\tcp.h
+	<stdint.h>
+	"swo.h"
+
+1450782060 c:\workspace\statapon\inc\periphery.h
+	<stdint.h>
+
+1466071670 c:\workspace\statapon\inc\usart.h
+	<stdint.h>
+	"swo.h"
+
+1454074390 source:c:\workspace\statapon\src\periphery.cpp
+	"stm32f4xx_rcc.h"
+	"periphery.h"
+
+1448379033 source:c:\workspace\statapon\src\spi.cpp
+	"spi.h"
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_spi.h"
+	"stm32f4xx_exti.h"
+
+1446989640 source:c:\workspace\statapon\src\startup_stm32f4xx.s
+
+1435531372 source:c:\workspace\statapon\src\swo.c
+
+1446989414 source:c:\workspace\statapon\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1450357073 source:c:\workspace\statapon\src\timer.cpp
+	"timer.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_tim.h"
+	"misc.h"
+
+1473268879 source:c:\workspace\statapon\src\usart.cpp
+	"usart.h"
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+	"stm32f4xx_rcc.h"
+	"stm32f4xx_syscfg.h"
+	"stm32f4xx_usart.h"
+	"stdio.h"
+	"stdlib.h"
+
+1466106830 source:c:\workspace\statapon\src\jumper.cpp
+	"jumper.h"
+	"stm32f4xx.h"
+	"stm32f4xx_gpio.h"
+
+1473172915 source:c:\workspace\statapon\src\tcp.cpp
+	"tcp.h"
+	<stdio.h>
+
+1473269474 source:c:\workspace\statapon\src\eventbuff.cpp
+	"eventbuff.h"
+
+1473269546 c:\workspace\statapon\inc\eventbuff.h
+	<stdint.h>
+
